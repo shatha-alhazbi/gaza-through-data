@@ -1,0 +1,10 @@
+0,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2025-04-20 12:48:09.617818
+1,_IncompleteInputError,"incomplete input (3778852667.py, line 2)",0,,2025-04-20 12:48:35.603844
+2,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2025-04-20 12:48:43.083486
+3,NameError,name 'droughtotals' is not defined,0,,2025-04-20 12:49:14.083108
+4,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2025-04-20 12:49:29.063665
+5,TypeError,'<=' not supported between instances of 'int' and 'list',0,,2025-04-20 12:49:56.310859
+6,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2025-04-20 12:50:11.111315
+7,TypeError,'<' not supported between instances of 'ellipsis' and 'float',0,,2025-04-20 17:09:37.792175
+8,_IncompleteInputError,"incomplete input (3105718050.py, line 6)",0,,2025-04-20 17:16:16.635872
+9,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-20 17:16:28.054606
