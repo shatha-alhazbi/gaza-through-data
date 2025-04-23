@@ -8,3 +8,10 @@
 7,TypeError,'<' not supported between instances of 'ellipsis' and 'float',0,,2025-04-20 17:09:37.792175
 8,_IncompleteInputError,"incomplete input (3105718050.py, line 6)",0,,2025-04-20 17:16:16.635872
 9,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-20 17:16:28.054606
+10,SyntaxError,"invalid syntax (3107501400.py, line 4)",0,,2025-04-23 10:11:56.690314
+11,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-23 10:12:22.508943
+12,NameError,name 'phoenix_with_period' is not defined,0,,2025-04-23 10:32:31.766236
+13,NameError,name 'apply' is not defined,0,,2025-04-23 10:34:08.093446
+14,TypeError,values requires collect to be specified,0,,2025-04-23 10:39:43.921507
+15,AttributeError,'numpy.ndarray' object has no attribute 'sample',0,,2025-04-23 10:56:14.477984
+16,AttributeError,'numpy.ndarray' object has no attribute 'sample',0,,2025-04-23 10:56:34.948564
